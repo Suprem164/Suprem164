@@ -1,5 +1,5 @@
 # 💫 About Me
-I am an intermediate web developer with a solid foundation in HTML, CSS, JavaScript, Python, and C. My skills span both front-end and back-end development, enabling me to create dynamic and responsive web applications. I have a good understanding of web design principles, and I'm capable of writing clean, efficient code. While I haven't yet taken on any major projects, I am eager to apply my knowledge and skills to real-world scenarios and continue growing as a developer.
+I am an developer with a solid foundation in HTML, CSS, JavaScript, Python, C++, flutter, react. My skills span both front-end and back-end development, enabling me to create dynamic and responsive applications. I have a good understanding of web design principles, and I'm capable of writing clean, efficient code. I am eager to apply my knowledge and skills to real-world scenarios and continue growing as a developer.
 
 
 ## 🌐 Socials
